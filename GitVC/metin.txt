@@ -1,0 +1,3 @@
+git ve versiyon kontrol eğitimim
+
+git ignore
